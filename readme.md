@@ -1,6 +1,6 @@
-![maker-tag logo](https://raw.githubusercontent.com/alohe/maker-tag/master/logo.png)
-
 # Maker tag
+
+![Demo](https://raw.githubusercontent.com/alohe/maker-tag/master/imgs/demo.png)
 
 Maker tag is a customizable HTML and CSS based widget that displays a text tag on a web page. The widget is designed to be added to any website with minimal configuration.
 
