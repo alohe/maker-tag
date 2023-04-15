@@ -1,4 +1,4 @@
-[maker-tag logo](https://raw.githubusercontent.com/alohe/maker-tag/master/logo.png)
+![maker-tag logo](https://raw.githubusercontent.com/alohe/maker-tag/master/logo.png)
 
 # Maker tag
 
