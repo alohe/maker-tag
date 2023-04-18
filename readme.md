@@ -9,7 +9,7 @@ Maker tag is a customizable HTML and CSS based widget that displays a text tag o
 To add the Maker tag widget to your website, simply add the following JavaScript code to your web page:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/alohe/maker-tag@1.0.0/dist/mwl.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/alohe/maker-tag@1.0.1/dist/mwl.min.js"></script>
 ```
 
 The widget can be customized by passing an object to the MakerTag constructor. The following code shows the default configuration:
@@ -20,7 +20,7 @@ The widget can be customized by passing an object to the MakerTag constructor. T
 To add the Maker tag widget to your website, simply add the following JavaScript code to your web page:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/alohe/maker-tag@1.0.0/dist/mwl.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/alohe/maker-tag@1.0.1/dist/mwl.min.js"></script>
 <script>
     new MakerTag({
         text: "Made with ❤️ by Alohe",
