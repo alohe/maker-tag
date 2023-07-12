@@ -143,7 +143,7 @@ class MakerTag {
     // Create a paragraph element to hold the "made by" text
     const paragraphElem = document.createElement("p");
     paragraphElem.className = "made__by__text";
-    paragraphElem.textContent = this.tagText;
+    paragraphElem.innerHTML = this.tagText;
 
     // Append the paragraph element to the anchor element
     anchorElem.appendChild(paragraphElem);
